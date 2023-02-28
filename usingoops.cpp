@@ -103,7 +103,8 @@ int main(){
     if(x=='n' || x=='N')
     cout<<"exit";
     }
-    while (x=='branch' || x=='branch');
+    while (x=='branch' || x=='branch'); 
+    //THIS CAN BE USED IN SIMPLE BANK 
 
 
 
@@ -113,7 +114,8 @@ int main(){
 
 
 
-}
+} 
+
 
 
 
